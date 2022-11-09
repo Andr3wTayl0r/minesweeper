@@ -20,7 +20,7 @@
     "url": "https://github.com/Andr3wTayl0r/minesweeper/issues"
   },
   "homepage": "https://github.com/Andr3wTayl0r/minesweeper#readme",
-  "dependencies": {
+  "devDependencies": {
     "typescript": "^4.8.4"
   }
 }
